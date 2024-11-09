@@ -52,9 +52,9 @@ Based on the analysis of the trip data, here are some key findings and recommend
 </p>
 
 <div align="center">
-  <a href="https://gitpod.io/#https://github.com/lunaSnowflake/Delhivery-Analysis">
-    <img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod">
-  </a>
+   <a href="https://colab.research.google.com/drive/1nd-37i8BewLDzjWkFpVYfZ6GMTFvNJjv?usp=sharing">
+    <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-colab-small.png" width="10%" /></a>
+    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="5%" alt="" />
 </div>
 
 ### Languages
