@@ -12,6 +12,16 @@ Delhivery is the largest and fastest-growing fully integrated player in India by
 - A bimodal distribution is observed in trip metrics (time and distance).
 - Ontime and OnDist metrics are left-skewed.
 
+* **Revolutionized:** Delivery time analysis revealed a 99% on-time delivery failure rate, with over 56% of missed deliveries exceeding the expected time by 100%, highlighting a critical operational inefficiency.
+
+* **Optimized:** Identified top 10 delivery corridors with an average speed of 23 km/h (maximum 46 km/h), demonstrating the impact of intra-city traffic on delivery performance.  Successfully pinpointed areas for route optimization.
+
+* **Accelerated:**  Discovered that while most deliveries achieve optimal distance, significant time delays persist, indicating a need to address speed discrepancies and route optimization strategies, especially for shorter trips (under 150km).
+
+* **Streamlined:**  Analyzed segment performance, revealing that despite overall delivery time issues, a significant percentage of segments were on time, suggesting potential improvements in individual segment scheduling and resource allocation.  
+
+* **Elevated:** Developed a comprehensive analysis showcasing that although trips achieve optimal distances, timeliness is significantly compromised. This highlights the need for data-driven optimizations for a more efficient delivery system.
+
 ### Business Recommendations:
 Based on the analysis of the trip data, here are some key findings and recommendations for the business:
 
