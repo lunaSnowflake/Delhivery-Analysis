@@ -57,7 +57,7 @@ Based on the analysis of the trip data, here are some key findings and recommend
 - Further investigate the "segment_ontime_miss" and "segment_ondist_successed" metrics' linear trend to understand its implications for resource allocation and operational efficiency.
 - Monitor and analyze delivery performance for top corridors to maintain their high on-time delivery rate.  Early warning systems for potential delays or route disruptions can minimize negative impacts.
 - Consider developing a predictive model for trip times, leveraging historical data, traffic patterns, and other relevant factors. This model can be used for proactive scheduling and improved customer communication.
-- Segment customers based on their delivery needs and preferences (e.g. speed vs. cost). Implement targeted logistics strategies for different segments.
+- Segment customers based on their delivery needs and preferences (e.g. speed vs cost). Implement targeted logistics strategies for different segments.
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpsemF6azhnNHFsajQwaDVycjBidGpmNDZ5aDZnZnh4eTVsczducSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ne3qb8GHvteK4QGtbs/giphy.gif" alt="Alt Text">
